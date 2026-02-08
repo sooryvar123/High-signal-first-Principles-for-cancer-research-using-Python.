@@ -4,7 +4,7 @@
 ---
 
 ## **🎯 Research Mission**
-This notebook series is designed to operationalize the **High-Signal Strategy** for cancer research. It bridges the gap between raw molecular data (TCGA/CPTAC) and clinical application, focusing on the specific challenges of **Prostate Cancer**, **Health Disparities**, and **Biomarker Discovery** (*EZH2, AMACR, TMPRSS2-ERG*).
+This notebook series is designed to operationalize the **High-Signal Strategy** for cancer research. It bridges the gap between raw molecular data (TCGA/CPTAC) and clinical application, focusing on the specific challenges of **Cancer** and **Biomarker Discovery** (*EZH2, AMACR, TMPRSS2-ERG*).
 
 ## **🧠 The 4 Core Pillars**
 We apply **First Principles Thinking** to biological data:
